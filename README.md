@@ -1,11 +1,12 @@
 # Douban_spider
 
-douban_spider.py you can use it to get top 100 movies which is listed by douban website
+> - douban_spider.py you can use it to get top 100 movies which is listed by douban website
 
-example out
+# example out
 
-## ![image](https://github.com/Vxee/Douban_spider/tree/master/image/douban_spider_example.png)
+> - ![image](https://github.com/Vxee/Douban_spider/tree/master/image/douban_spider_example.png)
 
+```
 豆瓣电影爬虫准备就绪，准备爬取数据。。
 Top1 肖申克的救赎
 Top2 这个杀手不太冷
@@ -108,3 +109,4 @@ Top98 断背山
 Top99 萤火虫之墓
 Top100 爱在日落黄昏时
 豆瓣爬虫爬取结束..
+```
