@@ -1,6 +1,9 @@
-# Douban_spider
+# douban_spider
 
 > - douban_spider.py you can use it to get top 100 movies which is listed by douban website
+
+# threading_douban_spider
+> - 用多线程爬取方式实现
 
 # example out
 
