@@ -7,7 +7,7 @@
 
 # example out
 
-> - ![image](https://github.com/Vxee/Douban_spider/tree/master/image/douban_spider_example.png)
+> - ![image](https://github.com/Vxee/Douban_spider/image/douban_spider_example.png)
 
 ```
 豆瓣电影爬虫准备就绪，准备爬取数据。。
