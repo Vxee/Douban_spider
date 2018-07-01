@@ -7,8 +7,6 @@
 
 # example out
 
-> - ![image](https://github.com/Vxee/Douban_spider/image/douban_spider_example.png)
-
 ```
 豆瓣电影爬虫准备就绪，准备爬取数据。。
 Top1 肖申克的救赎
